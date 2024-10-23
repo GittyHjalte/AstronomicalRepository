@@ -1,2 +1,1 @@
 # AstronomicalRepository
-ASTROWORLD
